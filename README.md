@@ -3,9 +3,34 @@
 
 
 
-<p><em>Software Enginner at <a href="https://www.utel.edu.mx/">University OF UTEL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Java Java Developer Jr. <a href=></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<p><em>Software Enginner at <a href="https://www.utel.edu.mx/">University OF UTEL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Java Developer Jr. <a href=></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
+<br>
 
+
+- 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+    </tr>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me in code ...  
@@ -13,7 +38,7 @@
 ```javascript
 const Sergio = {
   pronouns: "he" | "him",
-  code: [Java, Javascript, Typescript, HTML, CSS],
+  code: [Java, Javascript, Typescript, HTML5, CSS3],
   tools: [Node, Docker, SpringFramework, SpringBoot, Maven, Angular, MySql],
   architecture: ["microservices", "design system pattern"],
 
