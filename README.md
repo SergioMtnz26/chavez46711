@@ -43,34 +43,38 @@ println "My Architecture: ${sergio.architecture}";
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span>HTML5</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <span>javascript</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/1209/javascript.jpeg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>CSS3</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/6727/css.png">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg">
       </td>
     </tr>
   </tbody>
