@@ -1,5 +1,5 @@
 ### Hi there 👋
-![SergioFoto](https://user-images.githubusercontent.com/38054499/153469094-3ee20fbc-a784-47f1-83a0-68eaab2446b4.png)
+![SergioFoto1](https://user-images.githubusercontent.com/38054499/153475600-83197b2c-5231-4036-9ead-3f849f94559f.png)
 
 <h2> Hi, I'm Sergio Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
