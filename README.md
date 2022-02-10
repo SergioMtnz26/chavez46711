@@ -11,15 +11,59 @@
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+```julia
+module main
+
+aboutMe :: struct {
+pronouns :: string[];
+languages :: string[];
+tools:  :: string[];
+architecture: :: string;
+}
+
+main :: func(): void {
+Sergio :: aboutMe = {
+pronouns: ["He", "Him"],
+languages: ["Java", "Javascript", "Typescript", "HTML5", "CSS3"],
+tools: ["Node", "Docker", "SpringFramework", "SpringBoot", "Maven", "Angular", "MySql"],
+architecture: ["microservices", "design system pattern"],
+}
+
+println "Pronouns: ${sergio.pronouns}";
+println "Languages I Know: ${sergio.languages}";
+println "My Tools: ${sergio.tools}";
+println "My Architecture: ${sergio.architecture}";
+ 
+}
+```
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
 
 <table>
   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+      </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -32,19 +76,7 @@
   </tbody>
 </table>
 
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me in code ...  
-
-```javascript
-const Sergio = {
-  pronouns: "he" | "him",
-  code: [Java, Javascript, Typescript, HTML5, CSS3],
-  tools: [Node, Docker, SpringFramework, SpringBoot, Maven, Angular, MySql],
-  architecture: ["microservices", "design system pattern"],
-
-  
-```
-## You can fine me :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> You can fine me :
 
 [![Twitter: Sergio Martinez](https://img.shields.io/twitter/follow/chavez46711?style=social)](https://twitter.com/chavez46711)
 [![Linkedin: Sergio Martinez](https://img.shields.io/badge/-Sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-martinez-b70a79177//)](https://www.linkedin.com/in/sergio-martinez-b70a79177/)
