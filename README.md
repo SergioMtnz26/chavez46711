@@ -1,7 +1,7 @@
 ### <h2> Hi, I'm Sergio Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ![Foto](https://user-images.githubusercontent.com/38054499/153477286-bd7f6880-5550-41fd-9c90-b7bc5e7b648b.png)
 
-
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <p><em>Software Enginner at <a href="https://www.utel.edu.mx/">University OF UTEL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Java Developer Jr. <a href=></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
@@ -26,7 +26,7 @@ Sergio :: aboutMe = {
 pronouns: ["He", "Him"],
 languages: ["Java", "Javascript", "Typescript", "HTML5", "CSS3"],
 tools: ["Node", "Docker", "SpringFramework", "SpringBoot", "Maven", "Angular", "MySql"],
-architecture: ["microservices", "design system pattern"],
+architecture: ["Microservices", "Design System Pattern"],
 }
 
 println "Pronouns: ${sergio.pronouns}";
@@ -37,7 +37,7 @@ println "My Architecture: ${sergio.architecture}";
 }
 ```
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 ...
+### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <table>
   <tbody>
@@ -76,24 +76,19 @@ println "My Architecture: ${sergio.architecture}";
   </tbody>
 </table>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> You can fine me :
+
+
+---
+### You can fine me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Twitter: Sergio Martinez](https://img.shields.io/twitter/follow/chavez46711?style=social)](https://twitter.com/chavez46711)
 [![Linkedin: Sergio Martinez](https://img.shields.io/badge/-Sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-martinez-b70a79177//)](https://www.linkedin.com/in/sergio-martinez-b70a79177/)
-[![GitHub Sergio Martinez](https://img.shields.io/github/followers/Sergio?label=follow&style=social)](https://github.com/chavez46711)
-
-
-
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+[![GitHub Sergio Martinez](https://img.shields.io/github/followers/Sergio?label=follow&style=social)](https://github.com/chavez46711)<br>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ⭐️ From [@Sergio](https://github.com/chavez46711)
-
-
 
 <!--
 **chavez46711/chavez46711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
