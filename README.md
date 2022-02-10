@@ -3,21 +3,25 @@
 
 <h2> Hi, I'm Sergio Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner at <a href="https://www.utel.edu.mx/">University OF UTEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Java Developer Jr. <a href=></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<p><em>Software Enginner at <a href="https://www.utel.edu.mx/">University OF UTEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Java Java Developer Jr. <a href=></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
+
+
+## You can fine me :
 
 [![Twitter: Sergio Martinez](https://img.shields.io/twitter/follow/chavez46711?style=social)](https://twitter.com/chavez46711)
 [![Linkedin: Sergio Martinez](https://img.shields.io/badge/-Sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-martinez-b70a79177//)](https://www.linkedin.com/in/sergio-martinez-b70a79177/)
 [![GitHub Sergio Martinez](https://img.shields.io/github/followers/Sergio?label=follow&style=social)](https://github.com/chavez46711)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me in code ...  
 
 ```javascript
-const thai = {
+const Sergio = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [Node, Storybook, Docker],
+  code: [Java, Javascript, Typescript, HTML, CSS],
+  tools: [Node, Docker, SpringFramework, SpringBoot, Maven, Angular, MySql],
   architecture: ["microservices", "design system pattern"],
   
 ```
