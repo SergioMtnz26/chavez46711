@@ -1,14 +1,17 @@
-### <h2> Hi, I'm Sergio Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-![Foto](https://user-images.githubusercontent.com/38054499/153477286-bd7f6880-5550-41fd-9c90-b7bc5e7b648b.png)
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
 <p><em>Software Enginner at <a href="https://www.utel.edu.mx/">University OF UTEL</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> Java Developer Jr. <a href=></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
-<br>
 
 
-- 𝗜 ❤️ Full-Stack Developer !</br></br>
+![Foto](https://user-images.githubusercontent.com/38054499/153477286-bd7f6880-5550-41fd-9c90-b7bc5e7b648b.png)</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chavez46711&label=Profile%20views&color=0e75b6&style=flat" alt="chavez46711" /> </p>
+<h1 align="center">Hi 👋, I'm Sergio Martinez</h1>
+<h3 align="center">A passionate full stack developer from Mexico</h3>
+
+
+
+
+
+
 
 
 ```julia
@@ -36,74 +39,22 @@ println "My Architecture: ${sergio.architecture}";
  
 }
 ```
+<h3 align="left">Languages and Tools:</h3><br>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavez46711&show_icons=true&locale=en&layout=compact" alt="chavez46711" /></p>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Html5</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/1209/javascript.jpeg">
-      </td>
-      <td width="25%" align="center">
-        <span>Ja𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Css3</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/6727/css.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-     <td width="25%" align="center">
-        <span>ApacheTom</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/1187/tomcat.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Maven</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/977/maven.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span>SpringBoot</span><br><br><br>
-        <img height="64px" src="https://user-images.githubusercontent.com/38054499/153534434-80c600f9-640a-489d-9bb4-5c2af94cbab5.png">
-      </td>
-     <td width="25%" align="center">
-        <span>MySql</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavez46711&show_icons=true&locale=en" alt="chavez46711" />
 
 
 ---
-### You can fine me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 align="left">Connect with me:</h3>
 
-[![Twitter: Sergio Martinez](https://img.shields.io/twitter/follow/chavez46711?style=social)](https://twitter.com/chavez46711)
-[![Linkedin: Sergio Martinez](https://img.shields.io/badge/-Sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-martinez-b70a79177//)](https://www.linkedin.com/in/sergio-martinez-b70a79177/)
-[![GitHub Sergio Martinez](https://img.shields.io/github/followers/Sergio?label=follow&style=social)](https://github.com/chavez46711)<br>
+<p align="left">
+<a href="https://twitter.com/chavez46711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chavez46711" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sergio-martinez-b70a79177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-martinez-b70a79177" height="30" width="40" /></a>
+</p>
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
