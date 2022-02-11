@@ -43,20 +43,28 @@ println "My Architecture: ${sergio.architecture}";
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
+        <span>Html5</span><br><br><br>
         <img height="64px" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
       </td>
       <td width="25%" align="center">
-        <span>javascript</span><br><br><br>
+        <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://img.stackshare.io/service/1209/javascript.jpeg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <span>Ja𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>CSS3</span><br><br><br>
+        <span>Css3</span><br><br><br>
         <img height="64px" src="https://img.stackshare.io/service/6727/css.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+     <td width="25%" align="center">
+        <span>ApacheTom</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/1187/tomcat.png">
       </td>
     </tr>
     <tr valign="top">
@@ -65,8 +73,8 @@ println "My Architecture: ${sergio.architecture}";
         <img height="64px" src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Maven</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/977/maven.png">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹</span><br><br><br>
@@ -74,7 +82,15 @@ println "My Architecture: ${sergio.architecture}";
       </td>
       <td width="25%" align="center">
         <span>Angular</span><br><br><br>
-        <img height="64px" src="https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg">
+        <img height="64px" src="https://cdn.appdesign.dev/wp-content/uploads/2020/08/Agencia-desarrollo-Angular-JS.jpg">
+      </td>
+      <td width="25%" align="center">
+        <span>SpringBoot</span><br><br><br>
+        <img height="64px" src="https://user-images.githubusercontent.com/38054499/153534434-80c600f9-640a-489d-9bb4-5c2af94cbab5.png">
+      </td>
+     <td width="25%" align="center">
+        <span>MySql</span><br><br><br>
+        <img height="64px" src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png">
       </td>
     </tr>
   </tbody>
