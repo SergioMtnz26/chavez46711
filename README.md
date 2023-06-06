@@ -44,7 +44,7 @@ println "My Architecture: ${sergio.architecture}";
 
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavez46711&show_icons=true&locale=en&layout=compact" alt="chavez46711" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavez46711&show_icons=true&locale=en" alt="chavez46711" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavez46711&show_icons=true&theme=radical" alt="chavez46711" />
 
 
 ---
