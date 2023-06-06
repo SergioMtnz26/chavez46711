@@ -2,7 +2,7 @@
 </em></p>
 
 
-![Foto](https://user-images.githubusercontent.com/38054499/Black Elegant Minimalist Profile LinkedIn Banner.png)</h1>
+![Foto](https://user-images.githubusercontent.com/38054499/153477286-bd7f6880-5550-41fd-9c90-b7bc5e7b648b.png)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavez46711&label=Profile%20views&color=0e75b6&style=flat" alt="chavez46711" /> </p>
 <h1 align="center">Hi 👋, I'm Sergio Martinez</h1>
 <h3 align="center">A passionate full stack developer from Mexico</h3>
