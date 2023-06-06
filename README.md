@@ -2,7 +2,7 @@
 </em></p>
 
 
-![sergio](https://github.com/SergioMtnz26/chavez46711/assets/38054499/e546c01e-52af-4019-93a6-d47f51cfbc84)</h1>
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/SergioMtnz26/chavez46711/assets/38054499/508568db-b2b1-4573-914f-76143fdfb509)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavez46711&label=Profile%20views&color=0e75b6&style=flat" alt="chavez46711" /> </p>
 <h1 align="center">Hi 👋, I'm Sergio Martinez</h1>
 <h3 align="center">A passionate full stack developer from Mexico</h3>
