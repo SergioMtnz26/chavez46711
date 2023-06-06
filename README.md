@@ -57,7 +57,7 @@ println "My Architecture: ${sergio.architecture}";
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
-⭐️ From [@Sergio](https://github.com/chavez46711)
+⭐️ From [@Sergio](https://github.com/SergioMtnz26)
 
 <!--
 **chavez46711/chavez46711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
