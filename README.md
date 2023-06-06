@@ -50,7 +50,7 @@ println "My Architecture: ${sergio.architecture}";
 
 <p align="left">
 <a href="https://twitter.com/chavez46711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chavez46711" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sergio-martinez-b70a79177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-martinez-b70a79177" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sergio-martinez-b70a79177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-martinez-padilla-b70a79177/" height="30" width="40" /></a>
 </p>
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
